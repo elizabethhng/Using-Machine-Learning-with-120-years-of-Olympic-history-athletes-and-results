@@ -5,7 +5,7 @@
 ## Project summary
 This project explores the Kaggle Dataset 20 years of Olympic history: athletes and results Source: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results.
 
-The project is divided into three sections, 
+The contributions of this code have been divided into three sections, 
 Section A: Data Cleaning (Contributed by Goh Sheue Ling)
 Section B: Data Preperation, Exploratory Analysis (Contributed by Wang Jia Rui)
 Section C: Introduction, Machine Learning, Conclusion and Recomendations (Contributed by Me)
